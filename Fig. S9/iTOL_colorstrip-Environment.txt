@@ -1,0 +1,215 @@
+DATASET_COLORSTRIP
+SEPARATOR TAB
+BORDER_WIDTH	0.5
+COLOR	#bebada
+DATASET_LABEL	Environment
+LEGEND_COLORS	#caf0f8	#00b4d8	#0077b6	#03045e	#d00000	#96e072
+LEGEND_LABELS	Human	Pure culture	Plant-associated soil	Loki's Castle hydrothermal vent sediment (Deep Sea Sediments)	UK coastal water	Macroalga-related environment
+LEGEND_SHAPES	1	1	1	1	1	1
+LEGEND_TITLE	Environment
+MARGIN	5
+STRIP_WIDTH	25
+DATA
+AAC96462.1	#00b4d8	Pure culture
+ABT13678.1	#00b4d8	Pure culture
+ABT14536.1	#00b4d8	Pure culture
+ABT15404.1	#00b4d8	Pure culture
+ABT16953.1	#00b4d8	Pure culture
+ABU43672.1	#00b4d8	Pure culture
+AGE48353.1	#00b4d8	Pure culture
+AGE48724.1	#00b4d8	Pure culture
+AGE49334.1	#00b4d8	Pure culture
+AGE49661.1	#00b4d8	Pure culture
+AGE49665.1	#00b4d8	Pure culture
+AGE49729.1	#00b4d8	Pure culture
+AGE50336.1	#00b4d8	Pure culture
+AGE50411.1	#00b4d8	Pure culture
+AGE51075.1	#00b4d8	Pure culture
+AGE51397.1	#00b4d8	Pure culture
+AGE51748.1	#00b4d8	Pure culture
+AGE52088.1	#00b4d8	Pure culture
+AGE52396.1	#00b4d8	Pure culture
+AGE52747.1	#00b4d8	Pure culture
+AGE53715.1	#00b4d8	Pure culture
+AGE53769.1	#00b4d8	Pure culture
+AGE54115.1	#00b4d8	Pure culture
+AGE54466.1	#00b4d8	Pure culture
+AGE54943.1	#00b4d8	Pure culture
+AGE55169.1	#00b4d8	Pure culture
+AGE55526.1	#00b4d8	Pure culture
+AGE56134.1	#00b4d8	Pure culture
+AGE56246.1	#00b4d8	Pure culture
+AGE56811.1	#00b4d8	Pure culture
+AGE56815.1	#00b4d8	Pure culture
+AGE57136.1	#00b4d8	Pure culture
+AGE57199.1	#00b4d8	Pure culture
+AGE57846.1	#00b4d8	Pure culture
+AGE57900.1	#00b4d8	Pure culture
+AGE58242.1	#00b4d8	Pure culture
+AGE58612.1	#00b4d8	Pure culture
+AGE58984.1	#00b4d8	Pure culture
+AGE59590.1	#00b4d8	Pure culture
+AGE59595.1	#00b4d8	Pure culture
+AGE59937.1	#00b4d8	Pure culture
+AGE60254.1	#00b4d8	Pure culture
+AGR47814.1	#00b4d8	Pure culture
+AKE44749.1	#00b4d8	Pure culture
+AKF12668.1	#00b4d8	Pure culture
+AKF13028.1	#00b4d8	Pure culture
+AKF13399.1	#00b4d8	Pure culture
+CAG7581758.1	#d00000	UK coastal water
+DAD88341.1	#caf0f8	Human
+DAE69532.1	#caf0f8	Human
+DAE70625.1	#caf0f8	Human
+DAE74561.1	#caf0f8	Human
+DAE81599.1	#caf0f8	Human
+DAF05689.1	#caf0f8	Human
+DAF12466.1	#caf0f8	Human
+DAF13169.1	#caf0f8	Human
+DAF25765.1	#caf0f8	Human
+DAF95307.1	#caf0f8	Human
+DAG02848.1	#caf0f8	Human
+DAG05208.1	#caf0f8	Human
+DAG11304.1	#caf0f8	Human
+DAG31143.1	#caf0f8	Human
+DAG66259.1	#caf0f8	Human
+DAG97495.1	#caf0f8	Human
+DAG98594.1	#caf0f8	Human
+DAH43336.1	#caf0f8	Human
+DAI37832.1	#caf0f8	Human
+DAI99025.1	#caf0f8	Human
+DAJ03078.1	#caf0f8	Human
+DAJ25285.1	#caf0f8	Human
+DAJ33339.1	#caf0f8	Human
+DAJ35129.1	#caf0f8	Human
+DAJ55322.1	#caf0f8	Human
+DAJ57810.1	#caf0f8	Human
+DAJ61302.1	#caf0f8	Human
+DAJ66022.1	#caf0f8	Human
+DAJ97987.1	#caf0f8	Human
+DAK17679.1	#caf0f8	Human
+DAK21145.1	#caf0f8	Human
+DAK35018.1	#caf0f8	Human
+DAK35279.1	#caf0f8	Human
+DAK38924.1	#caf0f8	Human
+DAK46954.1	#caf0f8	Human
+DAK47054.1	#caf0f8	Human
+DAK71661.1	#caf0f8	Human
+DAK71930.1	#caf0f8	Human
+DAK96867.1	#caf0f8	Human
+DAL01491.1	#caf0f8	Human
+DAL01794.1	#caf0f8	Human
+DAL02433.1	#caf0f8	Human
+DAL34678.1	#caf0f8	Human
+DAL56463.1	#caf0f8	Human
+DAL72369.1	#caf0f8	Human
+DAL94296.1	#caf0f8	Human
+DAM12241.1	#caf0f8	Human
+DAM27519.1	#caf0f8	Human
+DAM39763.1	#caf0f8	Human
+DAM53803.1	#caf0f8	Human
+DAM72773.1	#caf0f8	Human
+DAM85749.1	#caf0f8	Human
+DAN40951.1	#caf0f8	Human
+DAN49300.1	#caf0f8	Human
+DAN49890.1	#caf0f8	Human
+DAN85997.1	#caf0f8	Human
+DAO31802.1	#caf0f8	Human
+DAO32146.1	#caf0f8	Human
+DAO48926.1	#caf0f8	Human
+DAP01577.1	#caf0f8	Human
+DAP22233.1	#caf0f8	Human
+DAP45049.1	#caf0f8	Human
+DAP78713.1	#caf0f8	Human
+DAP92419.1	#caf0f8	Human
+DAQ03766.1	#caf0f8	Human
+DAQ10570.1	#caf0f8	Human
+DAQ28284.1	#caf0f8	Human
+DAQ42015.1	#caf0f8	Human
+DAQ83902.1	#caf0f8	Human
+DAR03233.1	#caf0f8	Human
+DAR36158.1	#caf0f8	Human
+DAR70635.1	#caf0f8	Human
+DAR82049.1	#caf0f8	Human
+DAR98673.1	#caf0f8	Human
+DAS15100.1	#caf0f8	Human
+DAS28228.1	#caf0f8	Human
+DAS41019.1	#caf0f8	Human
+DAS61291.1	#caf0f8	Human
+DAS74711.1	#caf0f8	Human
+DAS92269.1	#caf0f8	Human
+DAT28581.1	#caf0f8	Human
+DAT86762.1	#caf0f8	Human
+DAT89776.1	#caf0f8	Human
+DAU12391.1	#caf0f8	Human
+DAU54033.1	#caf0f8	Human
+DAU55535.1	#caf0f8	Human
+DAU81574.1	#caf0f8	Human
+DAV11270.1	#caf0f8	Human
+DAV12101.1	#caf0f8	Human
+DAV25928.1	#caf0f8	Human
+DAV25929.1	#caf0f8	Human
+DAV33941.1	#caf0f8	Human
+DAV35623.1	#caf0f8	Human
+DAV43845.1	#caf0f8	Human
+DAV53703.1	#caf0f8	Human
+DAV60786.1	#caf0f8	Human
+DAV70312.1	#caf0f8	Human
+DAV80042.1	#caf0f8	Human
+DAV95599.1	#caf0f8	Human
+DAW54137.1	#caf0f8	Human
+DAW63471.1	#caf0f8	Human
+DAX22641.1	#caf0f8	Human
+DAX24172.1	#caf0f8	Human
+DAX25911.1	#caf0f8	Human
+DAX27147.1	#caf0f8	Human
+DAX28430.1	#caf0f8	Human
+DAX76416.1	#caf0f8	Human
+DAX84924.1	#caf0f8	Human
+DAX96611.1	#caf0f8	Human
+DAY10389.1	#caf0f8	Human
+DAY24118.1	#caf0f8	Human
+DAY27773.1	#caf0f8	Human
+DAY75367.1	#caf0f8	Human
+DAY79258.1	#caf0f8	Human
+DAZ11247.1	#caf0f8	Human
+DAZ29414.1	#caf0f8	Human
+DAZ34314.1	#caf0f8	Human
+DAZ35280.1	#caf0f8	Human
+DAZ44549.1	#caf0f8	Human
+DAZ48683.1	#caf0f8	Human
+DAZ67726.1	#caf0f8	Human
+DAZ68483.1	#caf0f8	Human
+NP_048442.1	#00b4d8	Pure culture
+QBK90756.1	#03045e	Loki’s Castle hydrothermal vent sediment (Deep Sea Sediments)
+QBK91116.1	#03045e	Loki’s Castle hydrothermal vent sediment (Deep Sea Sediments)
+QWY83121.1	#0077b6	Plant-associated soil
+QWY83487.1	#0077b6	Plant-associated soil
+QWY83723.1	#0077b6	Plant-associated soil
+YP_001425751.1	#00b4d8	Pure culture
+YP_001427300.1	#00b4d8	Pure culture
+YP_001497333.1	#00b4d8	Pure culture
+YP_001498208.1	#00b4d8	Pure culture
+YP_009143055.1	#00b4d8	Pure culture
+YP_009189503.1	#00b4d8	Pure culture
+YP_009212376.1	#00b4d8	Pure culture
+YP_009601247.1	#00b4d8	Pure culture
+YP_009665257.1	#00b4d8	Pure culture
+YP_009701747.1	#00b4d8	Pure culture
+K-k141_1599960__full__full-cat_1_5	#96e072	Macroalga-related environment
+K-NODE_3319_length_9061_cov_144.058850__full__full-cat_1_5	#96e072	Macroalga-related environment
+KSD-k141_1226545__full__full-cat_2_19	#96e072	Macroalga-related environment
+KSD-k141_6505323__full__full-cat_2_8	#96e072	Macroalga-related environment
+KSD-k141_782721__full__full-cat_2_54	#96e072	Macroalga-related environment
+KSD-k141_7891686__full__full-cat_2_4	#96e072	Macroalga-related environment
+KSD-k141_9572456__full__full-cat_2_12	#96e072	Macroalga-related environment
+KSD-S4C2346__full-cat_1_12	#96e072	Macroalga-related environment
+KSW-cf_coassembly_k141_1030751__full__full-cat_2_53	#96e072	Macroalga-related environment
+KSW-cf_coassembly_k141_3795769__full__full-cat_2_19	#96e072	Macroalga-related environment
+KSW-megahit_k141_258865__full__full-cat_2_18	#96e072	Macroalga-related environment
+KSW-megahit_k141_749414__full__full-cat_2_11	#96e072	Macroalga-related environment
+KSW-T63_1_V_NODE_253_length_12558_cov_54.923378__full__full-cat_2_19	#96e072	Macroalga-related environment
+KSW-T63_1_V_NODE_46_length_27681_cov_68.516434__full-cat_1_5	#96e072	Macroalga-related environment
+KSW-T63_1_V_NODE_568_length_8397_cov_38.014505__full-cat_2_3	#96e072	Macroalga-related environment
+KSW-T63_2_V_NODE_47_length_32283_cov_43.631563__full__full-cat_1_3	#96e072	Macroalga-related environment
+KSW-vf_coassembly_k141_392022__full__full-cat_2_19	#96e072	Macroalga-related environment

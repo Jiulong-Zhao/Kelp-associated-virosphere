@@ -1,0 +1,215 @@
+DATASET_COLORSTRIP							
+SEPARATOR TAB							
+BORDER_WIDTH	0.5						
+COLOR	#bebada						
+DATASET_LABEL	Vfamily						
+LEGEND_COLORS	#6a4c93	#1982c4	#ffca3a	#ff595e	#4a7c59	#8ac926	#e0e1dd
+LEGEND_LABELS	Siphoviridae	Myoviridae	Podoviridae	Other Caudovirales	Phycodnaviridae	Other giant virus	Unclassified Virus
+LEGEND_SHAPES	1	1	1	1	1	1	1
+LEGEND_TITLE	Vfamily						
+MARGIN	5						
+STRIP_WIDTH	25						
+DATA							
+AAC96462.1	#4a7c59	Phycodnaviridae					
+ABT13678.1	#4a7c59	Phycodnaviridae					
+ABT14536.1	#4a7c59	Phycodnaviridae					
+ABT15404.1	#4a7c59	Phycodnaviridae					
+ABT16953.1	#4a7c59	Phycodnaviridae					
+ABU43672.1	#4a7c59	Phycodnaviridae					
+AGE48353.1	#4a7c59	Phycodnaviridae					
+AGE48724.1	#4a7c59	Phycodnaviridae					
+AGE49334.1	#4a7c59	Phycodnaviridae					
+AGE49661.1	#4a7c59	Phycodnaviridae					
+AGE49665.1	#4a7c59	Phycodnaviridae					
+AGE49729.1	#4a7c59	Phycodnaviridae					
+AGE50336.1	#4a7c59	Phycodnaviridae					
+AGE50411.1	#4a7c59	Phycodnaviridae					
+AGE51075.1	#4a7c59	Phycodnaviridae					
+AGE51397.1	#4a7c59	Phycodnaviridae					
+AGE51748.1	#4a7c59	Phycodnaviridae					
+AGE52088.1	#4a7c59	Phycodnaviridae					
+AGE52396.1	#4a7c59	Phycodnaviridae					
+AGE52747.1	#4a7c59	Phycodnaviridae					
+AGE53715.1	#4a7c59	Phycodnaviridae					
+AGE53769.1	#4a7c59	Phycodnaviridae					
+AGE54115.1	#4a7c59	Phycodnaviridae					
+AGE54466.1	#4a7c59	Phycodnaviridae					
+AGE54943.1	#4a7c59	Phycodnaviridae					
+AGE55169.1	#4a7c59	Phycodnaviridae					
+AGE55526.1	#4a7c59	Phycodnaviridae					
+AGE56134.1	#4a7c59	Phycodnaviridae					
+AGE56246.1	#4a7c59	Phycodnaviridae					
+AGE56811.1	#4a7c59	Phycodnaviridae					
+AGE56815.1	#4a7c59	Phycodnaviridae					
+AGE57136.1	#4a7c59	Phycodnaviridae					
+AGE57199.1	#4a7c59	Phycodnaviridae					
+AGE57846.1	#4a7c59	Phycodnaviridae					
+AGE57900.1	#4a7c59	Phycodnaviridae					
+AGE58242.1	#4a7c59	Phycodnaviridae					
+AGE58612.1	#4a7c59	Phycodnaviridae					
+AGE58984.1	#4a7c59	Phycodnaviridae					
+AGE59590.1	#4a7c59	Phycodnaviridae					
+AGE59595.1	#4a7c59	Phycodnaviridae					
+AGE59937.1	#4a7c59	Phycodnaviridae					
+AGE60254.1	#4a7c59	Phycodnaviridae					
+AGR47814.1	#ff595e	Other Caudovirales					
+AKE44749.1	#ff595e	Other Caudovirales					
+AKF12668.1	#ff595e	Other Caudovirales					
+AKF13028.1	#ff595e	Other Caudovirales					
+AKF13399.1	#ff595e	Other Caudovirales					
+CAG7581758.1	#e0e1dd	Unclassified Virus					
+DAD88341.1	#6a4c93	Siphoviridae					
+DAE69532.1	#ff595e	Other Caudovirales					
+DAE70625.1	#1982c4	Myoviridae					
+DAE74561.1	#e0e1dd	Unclassified Virus					
+DAE81599.1	#6a4c93	Siphoviridae					
+DAF05689.1	#ffca3a	Podoviridae					
+DAF12466.1	#6a4c93	Siphoviridae					
+DAF13169.1	#6a4c93	Siphoviridae					
+DAF25765.1	#6a4c93	Siphoviridae					
+DAF95307.1	#e0e1dd	Unclassified Virus					
+DAG02848.1	#6a4c93	Siphoviridae					
+DAG05208.1	#6a4c93	Siphoviridae					
+DAG11304.1	#6a4c93	Siphoviridae					
+DAG31143.1	#6a4c93	Siphoviridae					
+DAG66259.1	#6a4c93	Siphoviridae					
+DAG97495.1	#ff595e	Other Caudovirales					
+DAG98594.1	#ff595e	Other Caudovirales					
+DAH43336.1	#6a4c93	Siphoviridae					
+DAI37832.1	#1982c4	Myoviridae					
+DAI99025.1	#6a4c93	Siphoviridae					
+DAJ03078.1	#1982c4	Myoviridae					
+DAJ25285.1	#6a4c93	Siphoviridae					
+DAJ33339.1	#6a4c93	Siphoviridae					
+DAJ35129.1	#6a4c93	Siphoviridae					
+DAJ55322.1	#6a4c93	Siphoviridae					
+DAJ57810.1	#6a4c93	Siphoviridae					
+DAJ61302.1	#6a4c93	Siphoviridae					
+DAJ66022.1	#6a4c93	Siphoviridae					
+DAJ97987.1	#6a4c93	Siphoviridae					
+DAK17679.1	#6a4c93	Siphoviridae					
+DAK21145.1	#6a4c93	Siphoviridae					
+DAK35018.1	#6a4c93	Siphoviridae					
+DAK35279.1	#1982c4	Myoviridae					
+DAK38924.1	#6a4c93	Siphoviridae					
+DAK46954.1	#6a4c93	Siphoviridae					
+DAK47054.1	#6a4c93	Siphoviridae					
+DAK71661.1	#6a4c93	Siphoviridae					
+DAK71930.1	#6a4c93	Siphoviridae					
+DAK96867.1	#6a4c93	Siphoviridae					
+DAL01491.1	#6a4c93	Siphoviridae					
+DAL01794.1	#6a4c93	Siphoviridae					
+DAL02433.1	#6a4c93	Siphoviridae					
+DAL34678.1	#6a4c93	Siphoviridae					
+DAL56463.1	#6a4c93	Siphoviridae					
+DAL72369.1	#6a4c93	Siphoviridae					
+DAL94296.1	#6a4c93	Siphoviridae					
+DAM12241.1	#6a4c93	Siphoviridae					
+DAM27519.1	#1982c4	Myoviridae					
+DAM39763.1	#6a4c93	Siphoviridae					
+DAM53803.1	#6a4c93	Siphoviridae					
+DAM72773.1	#ff595e	Other Caudovirales					
+DAM85749.1	#6a4c93	Siphoviridae					
+DAN40951.1	#6a4c93	Siphoviridae					
+DAN49300.1	#6a4c93	Siphoviridae					
+DAN49890.1	#6a4c93	Siphoviridae					
+DAN85997.1	#6a4c93	Siphoviridae					
+DAO31802.1	#6a4c93	Siphoviridae					
+DAO32146.1	#6a4c93	Siphoviridae					
+DAO48926.1	#6a4c93	Siphoviridae					
+DAP01577.1	#6a4c93	Siphoviridae					
+DAP22233.1	#6a4c93	Siphoviridae					
+DAP45049.1	#6a4c93	Siphoviridae					
+DAP78713.1	#6a4c93	Siphoviridae					
+DAP92419.1	#1982c4	Myoviridae					
+DAQ03766.1	#ffca3a	Podoviridae					
+DAQ10570.1	#6a4c93	Siphoviridae					
+DAQ28284.1	#6a4c93	Siphoviridae					
+DAQ42015.1	#6a4c93	Siphoviridae					
+DAQ83902.1	#6a4c93	Siphoviridae					
+DAR03233.1	#6a4c93	Siphoviridae					
+DAR36158.1	#1982c4	Myoviridae					
+DAR70635.1	#6a4c93	Siphoviridae					
+DAR82049.1	#6a4c93	Siphoviridae					
+DAR98673.1	#6a4c93	Siphoviridae					
+DAS15100.1	#6a4c93	Siphoviridae					
+DAS28228.1	#ffca3a	Podoviridae					
+DAS41019.1	#6a4c93	Siphoviridae					
+DAS61291.1	#6a4c93	Siphoviridae					
+DAS74711.1	#6a4c93	Siphoviridae					
+DAS92269.1	#6a4c93	Siphoviridae					
+DAT28581.1	#ffca3a	Podoviridae					
+DAT86762.1	#e0e1dd	Unclassified Virus					
+DAT89776.1	#6a4c93	Siphoviridae					
+DAU12391.1	#6a4c93	Siphoviridae					
+DAU54033.1	#6a4c93	Siphoviridae					
+DAU55535.1	#6a4c93	Siphoviridae					
+DAU81574.1	#6a4c93	Siphoviridae					
+DAV11270.1	#6a4c93	Siphoviridae					
+DAV12101.1	#6a4c93	Siphoviridae					
+DAV25928.1	#6a4c93	Siphoviridae					
+DAV25929.1	#6a4c93	Siphoviridae					
+DAV33941.1	#6a4c93	Siphoviridae					
+DAV35623.1	#6a4c93	Siphoviridae					
+DAV43845.1	#6a4c93	Siphoviridae					
+DAV53703.1	#6a4c93	Siphoviridae					
+DAV60786.1	#6a4c93	Siphoviridae					
+DAV70312.1	#6a4c93	Siphoviridae					
+DAV80042.1	#6a4c93	Siphoviridae					
+DAV95599.1	#6a4c93	Siphoviridae					
+DAW54137.1	#6a4c93	Siphoviridae					
+DAW63471.1	#6a4c93	Siphoviridae					
+DAX22641.1	#6a4c93	Siphoviridae					
+DAX24172.1	#6a4c93	Siphoviridae					
+DAX25911.1	#6a4c93	Siphoviridae					
+DAX27147.1	#6a4c93	Siphoviridae					
+DAX28430.1	#6a4c93	Siphoviridae					
+DAX76416.1	#6a4c93	Siphoviridae					
+DAX84924.1	#6a4c93	Siphoviridae					
+DAX96611.1	#6a4c93	Siphoviridae					
+DAY10389.1	#6a4c93	Siphoviridae					
+DAY24118.1	#6a4c93	Siphoviridae					
+DAY27773.1	#6a4c93	Siphoviridae					
+DAY75367.1	#1982c4	Myoviridae					
+DAY79258.1	#1982c4	Myoviridae					
+DAZ11247.1	#6a4c93	Siphoviridae					
+DAZ29414.1	#6a4c93	Siphoviridae					
+DAZ34314.1	#6a4c93	Siphoviridae					
+DAZ35280.1	#6a4c93	Siphoviridae					
+DAZ44549.1	#6a4c93	Siphoviridae					
+DAZ48683.1	#6a4c93	Siphoviridae					
+DAZ67726.1	#6a4c93	Siphoviridae					
+DAZ68483.1	#6a4c93	Siphoviridae					
+NP_048442.1	#4a7c59	Phycodnaviridae					
+QBK90756.1	#8ac926	Other giant virus					
+QBK91116.1	#8ac926	Other giant virus					
+QWY83121.1	#ff595e	Other Caudovirales					
+QWY83487.1	#ff595e	Other Caudovirales					
+QWY83723.1	#ff595e	Other Caudovirales					
+YP_001425751.1	#4a7c59	Phycodnaviridae					
+YP_001427300.1	#4a7c59	Phycodnaviridae					
+YP_001497333.1	#4a7c59	Phycodnaviridae					
+YP_001498208.1	#4a7c59	Phycodnaviridae					
+YP_009143055.1	#ff595e	Other Caudovirales					
+YP_009189503.1	#ff595e	Other Caudovirales					
+YP_009212376.1	#ff595e	Other Caudovirales					
+YP_009601247.1	#ff595e	Other Caudovirales					
+YP_009665257.1	#4a7c59	Phycodnaviridae					
+YP_009701747.1	#4a7c59	Phycodnaviridae					
+K-k141_1599960__full__full-cat_1_5	#e0e1dd	Unclassified Virus					
+K-NODE_3319_length_9061_cov_144.058850__full__full-cat_1_5	#e0e1dd	Unclassified Virus					
+KSD-k141_1226545__full__full-cat_2_19	#8ac926	Other giant virus					
+KSD-k141_6505323__full__full-cat_2_8	#e0e1dd	Unclassified Virus					
+KSD-k141_782721__full__full-cat_2_54	#ff595e	Other Caudovirales					
+KSD-k141_7891686__full__full-cat_2_4	#e0e1dd	Unclassified Virus					
+KSD-k141_9572456__full__full-cat_2_12	#e0e1dd	Unclassified Virus					
+KSD-S4C2346__full-cat_1_12	#ffca3a	Podoviridae					
+KSW-cf_coassembly_k141_1030751__full__full-cat_2_53	#1982c4	Myoviridae					
+KSW-cf_coassembly_k141_3795769__full__full-cat_2_19	#ff595e	Other Caudovirales					
+KSW-megahit_k141_258865__full__full-cat_2_18	#1982c4	Myoviridae					
+KSW-megahit_k141_749414__full__full-cat_2_11	#e0e1dd	Unclassified Virus					
+KSW-T63_1_V_NODE_253_length_12558_cov_54.923378__full__full-cat_2_19	#1982c4	Myoviridae					
+KSW-T63_1_V_NODE_46_length_27681_cov_68.516434__full-cat_1_5	#1982c4	Myoviridae					
+KSW-T63_1_V_NODE_568_length_8397_cov_38.014505__full-cat_2_3	#e0e1dd	Unclassified Virus					
+KSW-T63_2_V_NODE_47_length_32283_cov_43.631563__full__full-cat_1_3	#1982c4	Myoviridae					
+KSW-vf_coassembly_k141_392022__full__full-cat_2_19	#1982c4	Myoviridae					
