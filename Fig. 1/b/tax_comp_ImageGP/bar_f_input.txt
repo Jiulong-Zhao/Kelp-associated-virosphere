@@ -1,0 +1,9 @@
+Family	Endophytic	Epiphytic
+Siphoviridae	0.012934751	0.036346246
+unclassified Caudovirales	0.015234263	0.045911047
+Myoviridae	0.02127048	0.044954567
+Podoviridae	0.002874389	0.023433764
+unclassified Nucleocytoviricota	0.000862317	0.007651841
+Phycodnaviridae	0.002299511	0.00047824
+Mimiviridae	0.000574878	0
+Others	0.002874389	0.00191296

@@ -1,0 +1,4 @@
+ID	endophytic	epiphytic
+uncertain	0.980166715	0.556193209
+virulent	0.007473412	0.226207556
+temperate	0.012359874	0.217599235

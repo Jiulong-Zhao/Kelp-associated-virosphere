@@ -1,0 +1,5 @@
+ID	Endophytic viruses	Epiphytic viruses
+Unknown	0.941075022	0.839311334
+Uroviricota	0.052313883	0.151123864
+Nucleocytoviricota	0.004024145	0.008130081
+Others	0.00258695	0.00143472

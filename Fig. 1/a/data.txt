@@ -1,0 +1,6 @@
+target_database	novelty_proporation
+NCBI RefSeq Virus (genomes)	100
+IMG/VR v4.0 (genomes)	99.7
+IMG/VR v4.0 (genomes)2	97.8
+NCBI RefSeq Virus (proteins)	90.7
+IMG/VR v4.0 (proteins)	70.4

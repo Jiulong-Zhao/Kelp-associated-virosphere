@@ -1,0 +1,14 @@
+host_f	endophytic	epiphytic
+Flavobacteriaceae	0	0.288100209
+Granulosicoccaceae	0	0.118997912
+Rhodobacteraceae	0	0.114822547
+Vibrionaceae	0	0.108559499
+Alteromonadaceae	0.3	0.06263048
+Maricaulaceae	0	0.056367432
+Saprospiraceae	0	0.03131524
+Thiotrichaceae	0	0.027139875
+Micavibrionaceae	0	0.020876827
+Psychromonadaceae	0.15	0.004175365
+Cellvibrionaceae	0.15	0.008350731
+Arenicellaceae	0.15	0
+Others	0.25	0.158663883
