@@ -1,0 +1,9 @@
+datasets	novelty_proporation
+Kelp epiphytic/endophytic viromes	0.996588869
+Mariana Trench bottom sediment viromes	0.977272727
+Mariana Trench slope sediment viromes	0.968808484
+Deep cold seeps sediment viromes	0.700519931
+Deep-sea hydrothermal vents seawater viromes	0.664307164
+Deep ocean seawater (2000-3000m) viromes	0.547336509
+Hadal seawater viromes	0.491640867
+Hadal sediment viromes	0.299475262
