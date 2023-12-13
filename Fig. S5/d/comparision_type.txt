@@ -1,0 +1,12 @@
+Permutation test for adonis under reduced model
+Terms added sequentially (first to last)
+Permutation: free
+Number of permutations: 9999
+
+adonis2(formula = data ~ type, data = groups, permutations = 9999, distance = "bray")
+         Df SumOfSqs      R2      F Pr(>F)    
+type      3   5.7352 0.47209 7.4522  1e-04 ***
+Residual 25   6.4134 0.52791                  
+Total    28  12.1486 1.00000                  
+---
+Signif. codes:  0 ¡®***¡¯ 0.001 ¡®**¡¯ 0.01 ¡®*¡¯ 0.05 ¡®.¡¯ 0.1 ¡® ¡¯ 1
