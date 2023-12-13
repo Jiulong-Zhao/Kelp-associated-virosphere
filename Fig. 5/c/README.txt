@@ -1,0 +1,1 @@
+The contig maps were ploted by EasyFig 2.2.5.
