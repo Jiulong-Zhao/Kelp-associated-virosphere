@@ -1,0 +1,71 @@
+id	size	sample	color	genus
+K-k141_1305767||full	1	K	#339933	
+K-NODE_3236_length_7164_cov_6.680264	1	K	#339933	
+K-NODE_4283_length_6392_cov_7.146757||full	1	K	#339933	
+K-NODE_5041_length_5954_cov_7.645533	1	K	#339933	
+K-sec_assembly_k141_2105171	1	K	#339933	
+KSW-cf_coassembly_k141_1099249||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_121012||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_1647831||full	1	KSW	#6699CC	
+KSW-T63_1_C_NODE_2222_length_16975_cov_21.224764||full	1	KSW	#6699CC	
+K-k141_1229656||full	1	K	#339933	
+K-k141_165712||full	1	K	#339933	
+K-k141_1998447||full	1	K	#339933	
+KSW-T63_2_C_NODE_13331_length_5330_cov_3.817630||full	1	KSW	#6699CC	
+KSW-T63_2_C_NODE_9618_length_6834_cov_7.615725||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_3649867||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_3937330||full	1	KSW	#6699CC	
+K-NODE_4114_length_7679_cov_6.024003	1	K	#339933	
+KSW-cf_coassembly_k141_3095342||full	1	KSW	#6699CC	
+K-NODE_3935_length_6626_cov_9.862274||full	1	K	#339933	
+KSW-C63_1_C_NODE_5241_length_9673_cov_6.838636||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_3863818	1	KSW	#6699CC	
+KSW-T63_2_C_NODE_2992_length_15770_cov_8.316513||full	1	KSW	#6699CC	
+K-NODE_8015_length_6507_cov_14.792622||full	1	K	#339933	
+KSW-cf_2nd_assembly_k141_3230851||full	1	KSW	#6699CC	
+KSW-cf_2nd_assembly_k141_509135||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_288273||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_2963717	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_3598033||full	1	KSW	#6699CC	
+KSW-T63_1_C_NODE_12016_length_5134_cov_4.081709||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_2849169||full	1	KSW	#6699CC	
+KSW-T0_1_C_NODE_10499_length_5543_cov_5.057216||full	1	KSW	#6699CC	
+KSW-T0_1_C_NODE_6884_length_7687_cov_5.262055	1	KSW	#6699CC	
+KSW-T0_1_C_NODE_7684_length_7022_cov_4.707478||full	1	KSW	#6699CC	
+K-k141_473419||full	1	K	#339933	
+KSW-cf_2nd_assembly_k141_1611284||full	1	KSW	#6699CC	
+KSW-cf_2nd_assembly_k141_3880478||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_1949099||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_2429533||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_2555689||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_3963112	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_693278||full	1	KSW	#6699CC	
+KSW-T63_2_V_NODE_1839_length_5108_cov_6.074213||full	1	KSW	#6699CC	
+KSW-T63_2_V_NODE_1872_length_5056_cov_9.173365||full	1	KSW	#6699CC	
+KSW-vf_coassembly_k141_386862||full	1	KSW	#6699CC	
+KSW-vf_coassembly_k141_664367||full	1	KSW	#6699CC	
+KSW-cf_coassembly_k141_702679	1	KSW	#6699CC	
+KSW-megahit_k141_628070||full	1	KSW	#6699CC	
+KSW-T63_2_C_NODE_10155_length_6554_cov_21.285736	1	KSW	#6699CC	
+KSW-T63_2_C_NODE_9756_length_6760_cov_37.435048||full	1	KSW	#6699CC	
+KSW-vf_coassembly_k141_162959	1	KSW	#6699CC	
+K-NODE_5333_length_5817_cov_6.655675	1	K	#339933	
+KSW-cf_coassembly_k141_2081402	1	KSW	#6699CC	
+KSW-C63_1_C_NODE_9630_length_5889_cov_4.589990||full	1	KSW	#6699CC	
+KSW-cf_2nd_assembly_k141_1711371||full	1	KSW	#6699CC	
+KSW-cf_2nd_assembly_k141_4541053||full	1	KSW	#6699CC	
+KSW-T63_2_C_NODE_4150_length_12588_cov_8.986356||full	1	KSW	#6699CC	
+K-bin.22.orig	3	K	#339933	K-bin.22.orig-Ochrovirga
+K-bin.46.orig	3	K	#339933	K-bin.46.orig-Polaribacter
+K-bin.59.orig	3	K	#339933	K-bin.59.orig-Dokdonia
+K-bin.63.orig	3	K	#339933	K-bin.63.orig-Winogradskyella
+K-bin.88.strict	3	K	#339933	K-bin.88.strict-Winogradskyella
+KSW-bin.147.orig	3	KSW	#6699CC	KSW-bin.147.orig-Polaribacter
+KSW-bin.259.orig	3	KSW	#6699CC	KSW-bin.259.orig-Polaribacter
+KSW-bin.276.orig	3	KSW	#6699CC	KSW-bin.276.orig-Polaribacter
+KSW-bin.365.orig	3	KSW	#6699CC	KSW-bin.365.orig-Polaribacter
+KSW-bin.386.orig	3	KSW	#6699CC	KSW-bin.386.orig-Polaribacter
+KSW-bin.46.orig	3	KSW	#6699CC	KSW-bin.46.orig-Wenyingzhuangia
+KSW-bin.5.orig	3	KSW	#6699CC	KSW-bin.5.orig-MAR-2010-188
+KSW-bin.64.orig	3	KSW	#6699CC	KSW-bin.64.orig-SCGC-AAA160-P02
+KSW-bin.71.orig	3	KSW	#6699CC	KSW-bin.71.orig-Polaribacter
