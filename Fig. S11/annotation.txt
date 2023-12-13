@@ -1,0 +1,31 @@
+PathwayL2	PathwayL1
+Protein families: genetic information processing	Brite Hierarchies
+Protein families: metabolism	Brite Hierarchies
+Protein families: signaling and cellular processes	Brite Hierarchies
+Cell growth and death	Cellular Processes
+Cell motility	Cellular Processes
+Cellular community - prokaryotes	Cellular Processes
+Transport and catabolism	Cellular Processes
+Membrane transport	Environmental Information Processing
+Signal transduction	Environmental Information Processing
+Signaling molecules and interaction	Environmental Information Processing
+"Folding, sorting and degradation"	Genetic Information Processing
+Replication and repair	Genetic Information Processing
+Transcription	Genetic Information Processing
+Translation	Genetic Information Processing
+Amino acid metabolism	Metabolism
+Biosynthesis of other secondary metabolites	Metabolism
+Carbohydrate metabolism	Metabolism
+Energy metabolism	Metabolism
+Glycan biosynthesis and metabolism	Metabolism
+Lipid metabolism	Metabolism
+Metabolism of cofactors and vitamins	Metabolism
+Metabolism of other amino acids	Metabolism
+Metabolism of terpenoids and polyketides	Metabolism
+Not included in regular maps	Metabolism
+Nucleotide metabolism	Metabolism
+Xenobiotics biodegradation and metabolism	Metabolism
+Poorly characterized	Not Included in Pathway or Brite
+Unclassified: genetic information processing	Not Included in Pathway or Brite
+Unclassified: metabolism	Not Included in Pathway or Brite
+Unclassified: signaling and cellular processes	Not Included in Pathway or Brite
