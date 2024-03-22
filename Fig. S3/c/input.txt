@@ -1,0 +1,9 @@
+value	group	sub
+0.218535469	Enriched	Caudovirales
+0.049199085	Enriched	Phycodnaviridae
+0.078375286	Enriched	Others
+0.65389016	Enriched	Unclassified
+0.211538462	Reduced	Caudovirales
+0.018269231	Reduced	Phycodnaviridae
+0.200961538	Reduced	Others
+0.569230769	Reduced	Unclassified
